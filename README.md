@@ -1,7 +1,7 @@
-AWS S3 Static Website Automation
+## AWS S3 Static Website Automation
 This project automates the process of downloading a webpage, uploading it to an AWS S3 bucket, and hosting it as a static website. It leverages Selenium for webpage rendering and boto3 for interacting with AWS services.
 
-Features
+## Features
 Download and save a fully rendered webpage (index.html) using Selenium.
 Automate S3 bucket creation and configuration for static website hosting.
 Upload files to S3 with the correct Content-Type for HTML.
